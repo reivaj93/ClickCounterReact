@@ -1,0 +1,15 @@
+*{
+  font-family: monospace;
+  background-color: lightslategrey;
+  color: ivory;
+}
+
+.button {
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
